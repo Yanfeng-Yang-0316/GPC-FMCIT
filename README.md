@@ -1,2 +1,2 @@
 # FMCIT
-The code of Flow Matching Based Conditional Independence Test
+The code of **Conditional Independence Test Via Flow Matching With Data Coupling** (FMCIT).
