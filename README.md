@@ -1,2 +1,2 @@
 # FMCIT
-The code of **Conditional Independence Test Via Flow Matching With Data Coupling** (FMCIT).
+The code of **Fast Flow Matching based Conditional Independence Tests for Causal Discovery** (FMCIT for Causal Discovery).
