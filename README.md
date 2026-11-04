@@ -1,2 +1,2 @@
-# FMCIT
-The code of **Fast Flow Matching based Conditional Independence Tests for Causal Discovery** (FMCIT for Causal Discovery).
+# GPC-FMCIT
+The code of **Reusable Conditional Resampling via Flow Matching for Constraint-Based Causal Discovery** (FMCIT for Causal Discovery).
